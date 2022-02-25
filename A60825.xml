@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some proposals offered to publick consideration, before the opening of Parliament, May 19, 1685 by an affectionate lover of his Prince and country. ...</title>
+            <author>Affectionate lover of his prince and country.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60825</idno>
+            <idno type="STC">Wing S4557</idno>
+            <idno type="STC">ESTC R17786</idno>
+            <idno type="EEBO-CITATION">11936232</idno>
+            <idno type="OCLC">ocm 11936232</idno>
+            <idno type="VID">51182</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60825)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 51182)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 513:44)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some proposals offered to publick consideration, before the opening of Parliament, May 19, 1685 by an affectionate lover of his Prince and country. ...</title>
+                  <author>Affectionate lover of his prince and country.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by F. Leach for Luke Meredity,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1685]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Advertisement: p. 4.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposition">
+            <pb facs="tcp:51182:1"/>
+            <pb n="1" facs="tcp:51182:1" rendition="simple:additions"/>
+            <head>SOME PROPOSALS Offered to Publick Conſideration, Before the Opening of PARLIAMENT: <hi>MAY</hi> 19. 1685.</head>
+            <byline>By an Affectionate Lover of his Prince and Country.</byline>
+            <p>
+               <hi>Ex Deo Rex, ex Rege Lex, ex utroque Salus.</hi>
+            </p>
+            <p>AS without doubt Kings and Princes are then moſt like them<g ref="char:EOLhyphen"/>ſelves when they moſt reſemble him whoſe Vicegerents they are; ſo nothing can poſſibly be more worthy the Conſidera<g ref="char:EOLhyphen"/>tion, Care, and utmoſt Abilities of the Supreme VViſdom of a Na<g ref="char:EOLhyphen"/>tion, than thoſe Grand Concerns of True Religion and the Honour of God, the Safety and Splendour of the Crown, together with the proſperity of the Subject. In tendency to which good ends, theſe few particulars following with all Humility are tendered to publick view.</p>
+            <p n="1">I. That an Humble Addreſs be made to his Majeſty for a gracious and general <hi>Amneſtia,</hi> to put us all into the condition of Good Subjects.</p>
+            <p n="2">II. To promote the honour of God, in the advancement of a ſound and Orthodox Religion, of true Piety, Vertue and Loyalty, the proper effects thereof. In ſettling Gods publick VVorſhip and Service, with Reverence and Reſpect towards his Miniſters, the Reverend Clergy: As alſo, That the Act for Building the Churches in
+<pb n="2" facs="tcp:51182:2"/>
+               <hi>London</hi> may be continued, not only till all the Churches be built, but alſo ſuch others as ſhall be found neceſſary to ſupply the wants of the large Out Pariſhes, that all people may conveniently attend the pub<g ref="char:EOLhyphen"/>lick worſhip of the Supreme Lord.</p>
+            <p n="3">III. To ſuppreſs Atheiſm, Prophaneneſs and Debauchery, which abounds, and grows upon us every day, and therefore calls aloud for a vigorous and ſevere reſtraint. That therefore the good Laws in being for the ſuppreſſion of Drunkenneſs, VVhoredom, and more eſpecially prophane Swearing and Curſing be effectually revived, and put in execution; as alſo that there may be made proviſion againſt Blaſphemy, and ſcoffing at Religion and the ſacred Scriptures; for never yet was it known in the world, that any Nation (tho never ſo barbarous) would endure their Gods to be reproached or deſpiſed.</p>
+            <p n="4">IV. To ſuppreſs Erroneous, Hetrodox and wicked Opinions; all Faction, Schiſm and Diſloyalty, the great peſt of the Nation, and the foundation of moſt of the calamities which have fallen upon us theſe many years paſt. And to this end to regulate Printing; To ſuppreſs all prophane and ſeditious Books and Pamphlets whatſoever, which corrupt and poyſon the minds of men; And further, to take an effectual courſe to poſſeſs the people with ſound, wholſome, Re<g ref="char:EOLhyphen"/>ligious, humble, and peaceable principles; eſpecially by way of ſtrict Catechizing of the Youth of the Nation.</p>
+            <p n="5">V. That his Majeſties occaſions be freely and fully ſupplied, and the Kingdoms Debts paid, as far as the preſent ſtate and condition of the Nation will well bear; that ſo our Gracious Soveraign may be like himſelf, moſt Honourable and Illuſtrious, That the Head may ſtand firm in its right place, and out of the reach of Envious and inſolent attempts, and be enabled to ſupport and defend it ſelf, without which the Body cannot ſubſiſt.</p>
+            <p n="6">VI. In the next place, That the Members of the Body Politick may in their ſeveral and reſpective places and ſtations be conſidered and provided for; It being (as one hath well obſerved) a true Maxime in the Academy of Honour, That it is more glorious for a Prince to be King of an opulent and free people, than of a ſlaviſh or Beggarly: In ſhort, that the Crown may flouriſh and the People be happy; whoſe mutual intereſt and welfare can never be ſeparated.</p>
+            <p n="7">VII. That for the further ſuppreſſion of Vice, common Plays may be Regulated and Reformed, That whatever is laſcivious, wicked, or promoteth vice and ſin, may be expunged out of them; That the bold violations of the Divine Laws may not be the ſubject of laughter and merriment; it being certainly the higheſt degree of
+<pb n="3" facs="tcp:51182:2"/>madneſs and folly for poor Mortals to laugh at that which cauſeth the Divine Majeſty of Heaven to frown. Beſides, wicked and filthy Plays imprint ſtrongly on the minds of men (eſpecially young per<g ref="char:EOLhyphen"/>ſons) more folly and ſin, than all the good Preaching in the world is able to correct in a long time. If the Plays were therefore well Reformed, and made vertuous, they might poſſibly ſooner incline ſome perſons to vertue and goodneſs, than good Sermons. And in this reſpect our Nobility and Gentry are very much concerned, that the hopes and ſupports of their Families (their greateſt treaſure) be not corrupted and debauched, and thereby their Families emaſcula<g ref="char:EOLhyphen"/>ted, and ſubjected to Ruin. And if this Reformation be not, I hum<g ref="char:EOLhyphen"/>bly conceive, That our Gentry may more ſafely indulge their Chil<g ref="char:EOLhyphen"/>dren in hunting of whore-houſes (a thing uſual, as I have heard, in <hi>Italy</hi> and <hi>Spain</hi>) where they poſſibly may learn but one vice, than in giving them liberty to attend theſe Academies of not only one, but many vices.</p>
+            <p n="8">VIII. That the Great Sufferings of poor VVidows and Orphans, by the Chamber of <hi>London,</hi> may be ſpeedily Conſidered and Re<g ref="char:EOLhyphen"/>lieved: It being a moſt horrid piece of Injuſtice and Oppreſſion, which crys aloud to Heaven.</p>
+            <p n="9">IX. To ſupply the defects in the Trade of the Nation; and that the people may be honeſtly employed, and our Trade both at home and abroad improved and flouriſh. To this end, to ſuppreſs Frauds and Cheats in Trading, and to revive (if poſſible) the Credit of the Nation, the life of Trade. And to prevent thoſe frequent Frauds and Cheats that are among us, by breaking and turning Bankrupts out of deſign, and then taking Sanctuary and Compounding their Debts. And further, For the furtherance of Trade and Converſe, as well as for the ſafety of all Travellers, That the late expired Act for Repairing the Highways be renewed for ſome time.</p>
+            <p n="10">X. That the poor of the Nation may be honeſtly employed, And that luſty common vagrants, with ſuch as through Idleneſs become uſeleſs and burdenſome to the Commonwealth, be either forced to labour in ſome honeſt way, or elſe (as a puniſhment of their Idleneſs) be Tranſported to our Foreign Plantations, to be there employ<g ref="char:EOLhyphen"/>ed, and made uſeful.</p>
+            <p>And when wholſome Laws (after mature deliberation) come to be Enacted, That all poſſible care and diligence be uſed in the draw<g ref="char:EOLhyphen"/>ing up and penning the ſame. That ſubtil and wicked Offenders may not be able to pick any holes in them to creep out at, and thereby ren<g ref="char:EOLhyphen"/>der them uſeleſs to us: And to prevent which miſchiefs I conceive
+<pb n="4" facs="tcp:51182:3" rendition="simple:additions"/>it great wiſdom to make much of our good Old Laws which are Confirmed by Time and Experience, and found uſeful to this day and never yet could be unravell'd and made uſeleſs and inſignificant by all the ſubtilty of Hell. I am further induced to think alſo, that there may poſſibly be greater need of ſome few good Laws to add vigour to the good Old Laws and Statutes in being, than of mul<g ref="char:EOLhyphen"/>tiplying our Statute Laws, which are already ſwelled to a vaſt bulk, and without this caution may in time increaſe <hi>in infinitum,</hi> except the end of the VVorld put an end to them: And I humbly conceive that multiplicity of Laws, may poſſibly in time prove a burthen both to Magiſtrates and Subjects; for certainly that Nation or People, which is well governed by the feweſt Laws, are the happieſt: And to this purpoſe a late wiſe Stateſman, Cardinal <hi>de Richelieu,</hi> in the great Aſſembly of the Notables in <hi>France,</hi> in the Reign of <hi>Lewis</hi> the Thirteenth, ſpeaks thus: <hi>The ſick ſometimes dye by too many Remedies as well as none at all: I am bound to tell you by the by, That to eſtabliſh this State in its firſt ſplendour, there's no need of many Ordinances, but real Executions; by this means, this Aſſembly may cloſe more ſpeedily, tho ſhe may be perpetual for the fruit ſhe ſhall produce. Few words and many deeds will teſtifie both the Good intentions and Judgments of them whereof ſhe is compoſed.</hi> And he concludes thus, <hi>You</hi> (ſaith he) <hi>ſhall know by the event, That his Majeſty will ſurpaſs himſelf to procure the good of his Kingdom.</hi> But how far this laſt Clauſe was made good to that Nation, I know not. Nevertheleſs we in this Nation may aſ<g ref="char:EOLhyphen"/>ſure our ſelves, That God hath bleſſed us with ſuch a Juſt, Generous, and Gracious Prince, who will make it Good to us. For whom (as in duty bound) Let us ſend up our Hearty and Affectionate Prayers to Heaven, that the beſt of Bleſſings may be ſhowred down upon him, his Gracious Conſort, and all the Royal Family; together with the High Court of Parliament when Aſſembled: Unto which let all the People in this Kingdom, yea, in the three Kingdoms, with loud Acclamation ſay, <hi>Amen, Amen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>F. Leach,</hi> for <hi>Luke Meredith,</hi> at the <hi>Kings Head</hi> at the <hi>Weſt End</hi> of St. <hi>Pauls</hi> Church-yard. MDCLXXXV.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>THere is now in the Preſs, and will be ſpeedily Publiſhed, a Book Entituled, Sober and Serious Conſiderations, occaſioned by the Death of his late Majeſty, King <hi>Charles</hi> the Second, of happy Memory; and the ſerious time of <hi>Lent</hi> preſently following. Together with a Brief Hiſtorical Account of the firſt Riſe, Progreſs, and Increaſe of Phanaticiſm in this Nation, with the diſmal and fatal conſequents thereof: And now humbly tendered to publick view, in tendency to the promoting of the Peace and Happineſs of the Kingdom. By the ſame Author. And Sold by <hi>Luke Me<g ref="char:EOLhyphen"/>redith,</hi> at the <hi>Kings Head</hi> at the <hi>Weſt End</hi> of St. <hi>Pauls</hi> Church-yard. <hi>Quarto. Price 6<abbr>d.</abbr>
+               </hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
